@@ -1,0 +1,3646 @@
+{
+  "https://www.pku.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.pku.edu.cn/about.html": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://chinese.pku.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://admission.pku.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.lib.pku.edu.cn/index.htm": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.bio.pku.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://sfl.pku.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.sis.pku.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.pku.edu.cn/close-up_pku2025.html": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://marxism.pku.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.csu.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.nwu.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.fudan.edu.cn/main.htm": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.tsinghua.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.ruc.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.ahu.edu.cn/main.htm": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.hust.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.hnu.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "http://oldhao123.com/daxue/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.ncu.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "http://www.henu.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.whu.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.dlu.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.dhu.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.hubu.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.ujn.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.lnu.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.fudan.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://neu.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.ysu.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.swu.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.suda.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.ncepu.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.hku.hk/c_index.html": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.ynu.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.gxu.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "http://www.zjxu.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "http://yangtzeu.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.cczu.edu.cn/main.htm": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.cqu.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.nuc.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.shzu.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.cdu.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.jnu.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.cumt.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.syu.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.xjtu.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://hbu.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.nankai.edu.cn/main.htm": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.shou.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "http://www.neu.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.gzu.edu.cn/main.psp": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.ytu.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.nuc.edu.cn/index.htm": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.ntu.edu.cn/main.htm": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.ucas.ac.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.ctgu.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.hainanu.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.lyu.edu.cn/main.htm": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.zzu.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.sxu.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.gzu.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.uestc.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.cqust.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.sdu.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.gdou.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.zju.edu.cn/main.htm": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.cuit.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.nju.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.jlu.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://ouchn.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "http://whu.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.snnu.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.tyut.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://yau.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.cuc.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.hit.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.qdu.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.seu.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.hhu.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.neau.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.nbu.edu.cn/ndgk1/ndjj.htm": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.hfuu.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.szu.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.hlju.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.lzu.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.nbu.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.sxdtdx.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.ecnu.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.nxu.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.qhu.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.gotopku.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.cdut.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://cn.xauat.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.ruc.edu.cn/xuexiaojianjie.html": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.ustc.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.nwpu.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.tongji.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.buaa.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.wzu.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.westlake.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.xhu.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.sustech.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.ouchn.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "http://sysu.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "http://www.sowang.com/gaokao/daxue/index.htm": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.dali.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://qschina.cn/world-university-rankings": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.cnur.com/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.dlou.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.cczu.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.nottingham.edu.cn/cn/index.aspx": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.qqhru.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.chd.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.xju.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://hbu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.utibet.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "http://www.baokao.net/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.sicnu.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.jsu.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.scut.edu.cn/new/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.icourse163.org/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.tust.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.sues.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.gxmzu.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://welcome.xmu.edu.cn/index.htm": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.jhun.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "http://www.bhu.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.suda.edu.cn/home/nav/index.html": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://ybu.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.ksu.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.sjtu.edu.cn/xxjj/index.html": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "http://join-tsinghua.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.usc.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.xatu.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.icourse163.org/?form=www.cswyh.com": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.fjut.edu.cn/main.htm": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.gbu.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "http://zs.scu.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://rst.xinjiang.gov.cn/xjrst/c112746/202511/2adc89879c474a5e8a739e8b80a13603.shtml": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.yangtzeu.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.qschina.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.tsinghua.edu.cn/xxgk.htm": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.cau.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.seu.edu.cn/_t6/main.psp": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.buct.edu.cn/xxjj_11373/list.htm": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.suda.edu.cn/?page_index=1": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.bbgu.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "http://www.xartvu.sn.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.xiyou.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://hrss.ah.gov.cn/zxzx/ztzl/ahsszsydwgkzpzl/ssgxgkzp/80779237.html": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.whu.edu.cn/index.htm": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.ujs.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.hkmu.edu.hk/sc/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.wyu.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.henu.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://main.shnu.edu.cn/main.htm": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.pku.edu.cn/department.html": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.tju.edu.cn/index.htm": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.sysu.edu.cn/xxg/zdjj1.htm": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.muc.edu.cn/index.htm": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.fudan.edu.cn/fdjj/list.htm": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.imu.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.hnu.edu.cn/hdgk/xxjj.htm": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://uc.whu.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://qschina.cn/university-rankings": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.nwu.edu.cn/xxgk/xxjj.htm": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.ucas.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.yau.edu.cn/xqzl/xxjj.htm": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.ahut.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.xust.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.pku.edu.cn/index.html": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.fudan.edu.cn/en/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.yzu.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.cug.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.ucas.ac.cn/xxgk/index.htm": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.icourse163.org/channel/2001.htm": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.ldu.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.tsinghua.edu.cn/yxsz.htm": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.btbu.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.ouc.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.ncst.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://apps.microsoft.com/detail/xp9mbps0n5364d?hl=zh-cn&gl=CN": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://yz.ustc.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.nuc.edu.cn/xxgk/xxjj.htm": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://zs.xmu.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.hbcit.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.nudt.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.cuhk.edu.hk/chinese/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.ecust.edu.cn/main.htm": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "http://zs.ouchn.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.xaut.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://group.pku.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.sdu.edu.cn/sdgk/sdjj.htm": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.cdut.edu.cn/index.htm": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.jiangnan.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.sdfmu.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.eol.cn/e_html/zt/mxdh/index.shtml": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://hudong.moe.gov.cn/qggxmd/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.chsi.com.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.zju.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://gjzwfw.www.gov.cn/col/col1391/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.moe.gov.cn/index.html": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://college.gx211.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.moe.gov.cn/jyb_zzjg/moe_347/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://gaokao.chsi.com.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.chsi.com.cn/?show=list": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.gaoxiaojob.com/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://gjzwfw.www.gov.cn/fwmh/school/indexSchool.do": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://gj.eol.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.ixuehai.cn/html/3850.html": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.gx211.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.moe.gov.cn/srcsite/A03/moe_634/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "http://hao123.com/edu": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://gaokao.chsi.com.cn/;/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.eduzs.org.cn/index.html": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.sdu.edu.cn/index.htm": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://daxue.hao86.com/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.sysu.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.chinaooc.com.cn/home": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "http://m.baokao.net/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://higher.smartedu.cn/h5/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.scu.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www2.cqu.edu.cn/v1/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://gaokao.chsi.com.cn/gdwz.do": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.xmu.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://college.gaokao.com/schlist/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.dxsbb.com/news/list_88.html": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://gaokao.chsi.com.cn/gxzxbm/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "http://www.swu.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://123.bkdx.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "http://hudong.moe.gov.cn/qggxmd/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://lol.qq.com/act/a20240905college/index.html?exchangeType=1&autoRefreshCookie=1": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://yz.chsi.com.cn/sch/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.zju.edu.cn/mainm.htm": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202406/t20240621_1136990.html": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://service.media.gov.cn/jmopen/webapp/html5/gxcxAPP/index.html": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "http://www.csrd.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://fsso.oversea.cnki.net/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.gx211.cn/collegemanage/collegeindex.aspx": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://lol.qq.com/news/detail.shtml?docid=1487747275030184553": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://hudong.moe.gov.cn/qggxmd/?browser=yes": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://wq.ncss.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "http://sx.cma.gov.cn/zfxxgk/zwgk/ggtz/202511/t20251103_7425064.html": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.chsi.com.cn/?page_index=1": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.gk100.com/daxueku": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "http://u.feelingmsg.com/u/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "http://zp.cmatec.cn/cms/preview/article.do?id=24799": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.csls.cdb.com.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://sls.cdb.com.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.chsai.com.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.chinaschool.com.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "http://www.nseac.com/eva/CUcompallE.php": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.eduzs.org.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.shanghairanking.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://gaokao.chsi.com.cn/sch/search.do": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.moe.gov.cn/s78/A08/index.html": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "http://btpta.xjbt.gov.cn/c/2025-11-10/8456622.shtml": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.eol.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://career.bnu.edu.cn/frontpage/bnu/html/recruitmentinfoForm.html?positionDetailId=6cd8ad81843a49c396bc382c5ed908f1": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://lol.qq.com/act/a20240905college/index.html": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://zwfw.moe.gov.cn/chsi/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.eol.cn/e_html/gk/dxpm/index.shtml": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.sdzk.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "http://fsso.oversea.cnki.net/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.rm123.cn/gaoxiao/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.cqooc.com/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://chinaooc.com.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.nustti.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.chinaooc.com.cn/books": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.gaokao.cn/colleges/rank": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "http://www.wfksxxw.com/html/news/2025-11-10/8032.html": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://bm.chsi.com.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "http://ah.cma.gov.cn/xwzx/tzggzx/202511/t20251106_7431173.html": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://edu.sc.gov.cn/scedu/c109686/zsgx.shtml": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://h3i.buaa.edu.cn/info/1141/4035.htm": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.neea.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.xmut.edu.cn/": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://news.eol.cn/yaowen/202406/t20240621_2618159.shtml": {
+    "domain": "education",
+    "lang": "cn"
+  },
+  "https://www.zhihu.com/question/502115468": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://www.zhihu.com/question/20826703": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://www.zhihu.com/question/302501351": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://zhidao.baidu.com/question/2001188627378700907.html": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://www.zhihu.com/question/446018913": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://www.zhihu.com/question/33589442": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://zhidao.baidu.com/question/381322925483239484.html": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://www.zhihu.com/column/p/56602020": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://www.zhihu.com/question/19568790": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://zhidao.baidu.com/question/758535749218291492.html": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://www.zju.edu.cn/english/": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://www.ox.ac.uk/": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://en.chd.edu.cn/": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://www.nbu.edu.cn/en/": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://www.washington.edu/": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://www.collegeboard.org/": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://www.imperial.ac.uk/": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://www.ucl.ac.uk/": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://www.commonapp.org/": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://www.cornell.edu/": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://chinascholarshipcouncil.com/": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://www.campuschina.org/": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://www.tsinghua.edu.cn/en/": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://www.csc.edu.cn/": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://www.edu.cn/english/": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://www.csc.edu.cn/laihua/": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://www.hec.gov.pk/": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://en.csu.edu.cn/": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://studyinchina.csc.edu.cn/": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "http://istudy.qdu.edu.cn/": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://www.educanada.ca/index.aspx?lang=eng": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://www.seu.edu.cn/english/": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "http://international.zzu.edu.cn/": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://edu.sh.gov.cn/study_en_scholarships/index.html": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://www.moe.gov.sg/": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://www.usa.gov/agencies/u-s-department-of-education": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://www.bnds.cn/en/about/profile/": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://www.ssis.asia/": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://www.isb.cn/": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://www.bcis.cn/": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "http://www.this.edu.cn/": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://www.harrowschool.org.uk/": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://github.com/iqbalmemorialschool/school-website": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://www.edudel.nic.in/": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://my.harrypotter.com/hogwarts": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://www.cn-school.com/main/index.html": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://schooledu.telangana.gov.in/SCHOOLEDUCATION/": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://srichaitanyaschool.net/": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://pesa.ncog.gov.in/sainikschoolecounselling/landingpage": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://www.moe.gov.sg/secondary/": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "http://isp.edu.my/": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://www.education.gov.in/": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://www.sainikschoolsociety.in/admissions": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://education.maharashtra.gov.in/": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://www.victoria.moe.edu.sg/": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "http://www.ssapunjab.org/": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://www.cambridgeinternational.org/why-choose-us/find-a-cambridge-school/": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://www.moe.gov.sg/primary/": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://basiceducation.up.gov.in/en": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://www.dodea.edu/": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://www.education.gov.za/SearchDBE.aspx": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://www.commonwealthsec.moe.edu.sg/": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://www.findmyschool.vic.gov.au/": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://apopenschool.ap.gov.in/": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://www.vic.gov.au/school": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://www.india.gov.in/official-website-kendriya-vidyalaya-sangathan": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://www.browardschools.com/": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://www.moe.gov.sg/schoolfinder": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://www.fairfieldmethodistsec.moe.edu.sg/": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://www.polito.it/en/education/phd-programmes-and-postgraduate-school/admissions-to-phd-programmes/admissions/call-for-applications": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://app.schoology.com/login": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://kvsangathan.nic.in/en/admission/": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://www.cisceindia.org/": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://isp.edu.my/": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://www.cbse.gov.in/": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://www.w3schools.com/html/default.asp": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://exams.nta.nic.in/sainik-school-society/": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://school.apple.com/": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://www.deped.gov.ph/schools/": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://classroom.google.com/": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://www.education.gov.in/en": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "http://www.schools9.com/": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://environment.yale.edu/": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://edustud.nic.in/": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "http://www.cardozohigh.com/": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://www.school-day.com/": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://www.awesindia.com/states/delhi.aspx": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://education.rajasthan.gov.in/rsos": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://www.moe.gov.sg/financial-matters/fees": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://www.edudel.nic.in/edu/govtadmission.html": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://www.fultonschools.org/": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://www.slcschools.org/": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://www.gov.uk/school-performance-tables": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://edudel.nic.in/welcome_folder/govtadmission.htm": {
+    "domain": "education",
+    "lang": "en"
+  },
+  "https://www.keoaeic.org/": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "http://conf--cnki--net--https.cnki.mdjsf.utuvpn.utuedu.com:9000/searchMeeting": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://meeting.sciencenet.cn/": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://www.scholat.com/org/orgPost.html?id=485": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "http://www.cacpp.com/": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://www.allconfs.org/": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://www.moe.gov.cn/jyb_xwfb/xw_ft/moe_46/moe_1055/tnull_12807.html": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://www.51huiyi.org/Web": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://sinoconf.napstic.cn/index": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://www.icfp.net/": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://sdkq.sdu.edu.cn/info/1023/13318.htm": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://jkxy.gnnu.edu.cn/info/1050/6861.htm": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://spxy.zjgsu.edu.cn/?news/5881.html": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://shiep.edu.cn/18/85/c6407a268421/page.htm": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://www.sohu.com/a/950409652_122534987": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://news.sciencenet.cn/htmlnews/2025/11/554456.shtm": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://ori.hangzhou.com.cn/ornews/content/2025-11/10/content_9120934.htm": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://gxy.zjhu.edu.cn/2025/1107/c1613a241624/page.htm": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://ipp.scut.edu.cn/2025/1110/c36418a608412/page.htm": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://www.shu.edu.cn/info/1056/384305.htm": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://zhuanlan.zhihu.com/p/1971526434179753882": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://www.yzwb.net/news/jiangsu/202511/t20251109_287187.html": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://jyxy.ldu.edu.cn/info/1174/9430.htm": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://ipp.cas.cn/xwdt/kydt/202511/t20251111_796406.html": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://zhuanlan.zhihu.com/p/1966815680402809929": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://finance.sina.com.cn/jjxw/2025-11-11/doc-infwzmka7321227.shtml": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://www.hnie.edu.cn/info/1042/12426.htm": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://chnbg.cn/detail/4583.html": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://news.qq.com/rain/a/20250731A08SE400": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://newsweb.nuaa.edu.cn/2025/1107/c743a387158/page.htm": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://imic.nuist.edu.cn/info/1032/1483.htm": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://news.xidian.edu.cn/info/1371/275646.htm": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://news.xidian.edu.cn/info/2106/275906.htm": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://www.academicenter.com/knowledge/details/1985984862807060480.html": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://www.cnnpn.cn/article/49821.html": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://www.dent.sdu.edu.cn/info/1023/13323.htm": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://sme.tju.edu.cn/info/1090/5566.htm": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://www.cnblogs.com/yl88/p/19200007": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://www.bbmu.edu.cn/info/1040/70723.htm": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://news.qq.com/rain/a/20241203A07YHX00": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://blog.csdn.net/kenchou99/article/details/154639790": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://sf.qdu.edu.cn/info/1204/3939.htm": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://cpa.cqu.edu.cn/": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://zhuanlan.zhihu.com/p/1950975119410335975": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://edu.nenu.edu.cn/info/1072/10097.htm": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "http://kq.gxmu.edu.cn/yiyuanxinwen/14108.html": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://www.hdu.edu.cn/2025/1110/c11546a287335/page.htm": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://xyw.njucm.edu.cn/2025/1111/c7112a163581/page.htm": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://www.qiluhospital.com/show-26-42995-1.html": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://www.gxtcmu.edu.cn/xwzx/xyxw/ejxy/content_83299": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://ccs.fjnu.edu.cn/6c/60/c15002a420960/page.htm": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://zhuanlan.zhihu.com/p/1969090954154713942": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://www.qiluhospital.com/show-26-42994-1.html": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "http://www.chisa.edu.cn/exclusive/202511/t20251111_2111411873.html": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://xyw.njucm.edu.cn/2025/1111/c7113a163560/page.htm": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://news.zzuli.edu.cn/_t1178/2025/1110/c498a341060/page.htm": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://jxxy.zua.edu.cn/info/1002/2428.htm": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://www.aminer.cn/": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://news.tom.com/202511/4660358665.html": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://www.bilibili.com/video/BV1QJkXBBEHc/": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://lib.jxnhu.edu.cn/info/10536/87167.htm": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://news.qq.com/rain/a/20241114A07P2R00": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://www.rxgdyjy.sdu.edu.cn/info/1049/6789.htm": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://jxxy.hnie.edu.cn/info/1169/4579.htm": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://www.ncc.edu.cn/2025/1111/c1669a57719/page.htm": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://m.thepaper.cn/baijiahao_31878806": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://www.chd.edu.cn/info/1083/566061.htm": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://www.lvu.edu.cn/22/da/c1359a74458/page.htm": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://me.zzuli.edu.cn/2025/1111/c3990a341133/page.htm": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://news.ccmu.edu.cn/syyw_12977/024b4da56c7d42abb5a426d442cb560d.htm": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "http://gjcxcy.bjtu.edu.cn/": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://jdkq.jlu.edu.cn/info/1007/4963.htm": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://news.bistu.edu.cn/kjxs/16a005d4a961430aa9e3582a14074308.html": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://news.hnust.edu.cn/kdyw/73a996685add4833b933c8497947d15a.htm": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://www.cqut.edu.cn/info/1105/67535.htm": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://zhuanlan.zhihu.com/p/1969408449772238156": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://blog.csdn.net/2503_91057718/article/details/154701314": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://sijc.bfsu.edu.cn/info/1084/5900.htm": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://news.lzu.edu.cn/info/1056/1084635.htm": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://mcmicm.org.cn/news/1095.html": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://zhuanlan.zhihu.com/p/1971217380525994546": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://www.thepaper.cn/newsDetail_forward_31878806": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://ei.wtu.edu.cn/info/1358/13915.htm": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://www.lzjtu.cn/info/1373/15875.htm": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://coe.xmu.edu.cn/info/1591/215721.htm": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://blog.csdn.net/leisigoyle/article/details/154536289": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://www.cnblogs.com/wozhendekun/p/19180364": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://www.qmu.edu.cn/2025/1020/c6207a196139/page.htm": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://cem.nefu.edu.cn/info/1061/4364.htm": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://www.cnki.net/": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://www.uconf.com/": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://www.cnki.net/index/": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://www.conf.cnki.net/JianJie.aspx": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://www.wanfangdata.com.cn/": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://www.wanfangdata.com.cn/index.html": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://www.keoaeic.org/meeting.html": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "http://www.eihuiyi.cn/": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "http://www.wencoo.com/": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "http://conf--cnki--net--https.cnki.mdjsf.utuvpn.utuedu.com:9000/Home": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://conf.cnki.net/": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://ioa.cas.cn/": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://www.ais.cn/attendees": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://2025pidmic.sciconf.cn/": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://www.allconfs.org/mobile/index_zh.asp": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "http://www.academicenter.com/": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://csohns2025.sciconf.cn/": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://29317.sciconf.cn/": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://cmacra2025.sciconf.cn/": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://www.ccf.org.cn/Academic_Evaluation/NIS/": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "http://www.allconfs.org/": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://gsc.kejie.org.cn/site-cciubsofficial/a1276.html": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://www.chemsoc.org.cn/meeting/home/m599": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://v2.ewapublishing.cn/": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://c.wanfangdata.com.cn/conference": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://www.chemsoc.org.cn/": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "http://cccn2025.cncs.net.cn/": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://www.cns.org.cn/": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://www.ces.org.cn/html/report/24120555-1.htm": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://xsb.zhhlxh.org.cn/user/info": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "http://www.uconf.com/": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://www.cas.cn/xs/": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "http://cccn2023.cncs.net.cn/": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://meeting.tencent.com/": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "http://www.eshukan.com/": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://econf.hust.edu.cn/": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "http://conf.cnki.net/": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://eenes.net/": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://www.ccf.org.cn/": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://www.ais.cn/": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://2025zjjy.sciconf.cn/": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://csit2025.sciconf.cn/": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://www.ei-cn.com/HuiYi/": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://csp2o24.tiemeeting.com/": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://g.wanfangdata.com.cn/": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://www.scholat.com/confHome.html": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://www.aconf.cn/": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://meeting.dxy.cn/": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://www.allconfs.org/index.asp": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://www.uconf.com/conference/": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://nccps2024.tiemeeting.com/": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://www.ais.cn/attendees/index/IAJ22M": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://www.scholat.com/orgPost.html?id=1826": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://www.cse.edu.cn/": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://www.allconfs.org/meeting_type_x.asp": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://nccps2025.tiemeeting.com/": {
+    "domain": "conference",
+    "lang": "cn"
+  },
+  "https://www.zhihu.com/question/20820000": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://www.zhihu.com/question/559252881?write": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://www.boaoforum.org/ac2024p/schedule.html": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://www.boaoforum.org/ac2023/index_2.html": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://www.zhihu.com/question/982329636?write": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://www.zhihu.com/question/326681142": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://www.zhihu.com/question/499406596": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://www.boaoforum.org/ac2025/index_2.html": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://www.zhihu.com/question/626508034?utm_psn=1697989482639368192": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://www.zhihu.com/question/9611646007": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://eccv2024.ecva.net/": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://cvpr.thecvf.com/Conferences/2025": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://gc.adventist.org/about-us/departments-services/": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://www.anex2024.com/": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://neurips.cc/": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://www2025.thewebconf.org/": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://www.ted.com/tedx/events": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://defcon.org/index.html": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://www.oic-oci.org/": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://www.secstandings.com/": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://b.tc/conference/2025": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://www.ted.com/": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://www.visitasilomar.com/": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://secretariat.adventist.org/": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://www.allconferencealert.com/": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://www.adventist.org/world-church/general-conference": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://aaai.org/": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://cumulusnantes2025.design/": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://unfccc.int/cop28": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://www.ieee.org/conferences-events": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://bigten.org/": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://www.cop28.com/en/": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://www.thecvf.com/?page_id=100": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://ghc.anitab.org/": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://ahfe.org/": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://www.secsports.com/": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://websummit.com/": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://gdconf.com/": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://www.humanx.co/": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://spec-ieee.org/spec2024/": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://unfccc.int/cop29": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://www.uefa.com/": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://www.apachecon.com/": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://www.un.org/en/mun": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://securityconference.org/en/": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://www.chelseafc.com/en/news/article/chelsea-win-the-conference-league": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://icavs.xmu.edu.cn/": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://www.croiconference.org/": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://rebootdevelopblue.com/": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://www.ich.org/": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://icdm2024.org/": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://magnusconferences.com/": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://www.pdac.ca/convention-2025": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://unctad.org/": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://imarcglobal.com/": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://global.nba.com/standings/#!/western": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://www.secsda.org/": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://aaai.org/conference/aaai/aaai-25/": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://nabshow.com/": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://www.adipec.com/": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://onegiantleap.com/": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://www.ijcai.org/": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://www.jpmorgan.com/about-us/events-conferences/health-care-conference": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://www.urc-international.com/": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://www.resurchify.com/": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://accsports.com/teams/all-teams/": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://www.secstandings.com/home": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://2024.ieee-icra.org/": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://conferencealert.com/": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://aaua.org/": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://www.internationalmun.org/": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://www.computer.org/": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://www.gop.gov/": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://montessori-mun.org/": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://www.re-plus.com/": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://conferences.sigcomm.org/sigcomm/2021/": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://www.cpac.org/": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://www.asco.org/annual-meeting": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://conferenceusa.com/": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://www.medica-tradefair.com/": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://www.unccd.int/cop16": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://big12sports.com/": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://www.nmun.org/": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://waset.org/": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://www.visitaec.org/": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://www.nvidia.com/gtc/": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://www.conferencelists.org/": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://www.sxsw.com/": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://bigten.org/fb/": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://www.discoverisc.com/west/en-us.html": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://meeting.myadlm.org/": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://show.ibc.org/": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://www.ted.com/attend/conferences": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://www.chelseafc.com/en/news/article/uefa-conference-league-fixture-update": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://www.aaar.org/meetings-events/meetings-and-events/": {
+    "domain": "conference",
+    "lang": "en"
+  },
+  "https://game.163.com/": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://www.wegame.com.cn/": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://games.wanmei.com/": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://store.steamchina.com/": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://www.yuanshen.com/": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "http://www.shengqugames.com/": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://game.163.com/m/game/": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://www.netease.com/": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://zh-cn.ubisoft.com/free": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://qqgame.qq.com/appstore/index.shtml": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://www.4399.com/index_new.htm": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://wy.qq.com/": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://cfhd.cf.qq.com/cp/a20240111ver/index.html": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://game.qq.com/brand/": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://www.wegame.com.cn/rail/online_games.html": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://web.4399.com/?go=home": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://game.163.com/about/": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://www.wegame.com.cn/store/index.html": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://www.4399.com/flash/index.htm": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://y.4399.com/": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://cn.sgames.org/": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://game.ithome.com/": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://cf.qq.com/cp/a20251107zb/index.html": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://zhuanlan.zhihu.com/p/710219786": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://xueqiu.com/7979505922/342373190": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://www.jobui.com/rank/company/view/quanguo/wangluoyouxi/": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://www.nbegame.com/post/15314.html": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://caifuhao.eastmoney.com/news/20251105161103414418710": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://finance.sina.com.cn/roll/2025-11-04/doc-infwfyak9880579.shtml": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://www.maigoo.com/maigoo/10598yxkf_index.html": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://www.jobui.com/rank/company/view/quanguo/youxikaifa/": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://news.qq.com/rain/a/20251024A06CJX00": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://www.zhihu.com/question/376467546/answers/updated": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://www.nowcoder.com/discuss/460153445404647424": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://www.thepaper.cn/newsDetail_forward_31235147": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://www.sohu.com/a/914930192_121984121": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://www.zhihu.com/question/639579484": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://www.jobui.com/rank/company/view/shanghai/youxi/": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://www.36kr.com/p/3548741801537672": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://www.yfchuhai.com/ranks/library/year-2024_type-1": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://xueqiu.com/6069997131/320415665": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://www.ecinnovations.com.cn/blog/chinas-top-10-foreign-funded-game-companies-h1-2025-performance-soaring-ahead-or-struggling-to-move-forward/": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://www.jobui.com/rank/company/view/quanguo/youxi/n-guoqi/": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://www.jobui.com/rank/company/view/quanguo/youxifaxing/": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://www.jobui.com/rank/company/view/shenzhen/youxi/": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://m.thepaper.cn/newsDetail_forward_31235147": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://news.qq.com/rain/a/20251105A0016X00": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://www.thepaper.cn/newsDetail_forward_30775380": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://www.gameres.com/881673.html": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://view.inews.qq.com/a/20240307A0A99W00": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://www.sohu.com/a/903215065_121984121": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://www.ecinnovations.com.cn/blog/gaming-goes-global-a-roundup-of-shenzhen-based-game-companies/": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://xueqiu.com/7979505922/342380912": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://m.36kr.com/p/1984617899099399": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "http://www.southmoney.com/Special/gainiangu/202403/49061364.html": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://zhuanlan.zhihu.com/p/323463205": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://zhuanlan.zhihu.com/p/143403636": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://news.qq.com/rain/a/20251112A01OQU00": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://zh-cn.ubisoft.com/company/about_us": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://www.hero.com/": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://www.jobui.com/rank/company/view/beijing/youxi/": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://finance.sina.com.cn/tech/roll/2025-05-19/doc-inexakse3020677.shtml": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://baijiahao.baidu.com/s?id=1774899228332847404": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://www.163.com/dy/article/K52BML0N0511829H.html": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://indienova.com/indie-game-news/gdc-indie-starter-kit-the-basics-of-founding-a-successful-games-company/": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://zhuanlan.zhihu.com/p/1924419244390593661": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://games.sina.com.cn/y/n/2020-03-19/imxyqwa1688182.shtml": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://www.bilibili.com/video/BV1M5411t7ci/": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://xueqiu.com/2218953919/341386723": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://www.bilibili.com/video/BV1Uy411i7ra/": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://www.jobui.com/rank/company/view/hangzhou/youxi/": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://finance.sina.com.cn/roll/2025-04-29/doc-ineuvhrz5158843.shtml": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://news.qq.com/rain/a/20241226A05MLP00": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://www.youxiwangguo.com/post/4A9430B84F3f.html": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://finance.eastmoney.com/a/202504293392691749.html": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://game.163.com/m/about.html": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://finance.sina.com.cn/tech/roll/2024-09-13/doc-incnzezk5592934.shtml": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://news.qq.com/rain/a/20251111A06QOL00": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://caifuhao.eastmoney.com/news/20250108122741212983090": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://www.msn.cn/zh-cn/gaming/%E6%B8%B8%E6%88%8F%E5%B9%B3%E5%8F%B0/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%8E%82-%E8%B0%81%E6%89%8D%E7%AE%97%E6%B8%B8%E6%88%8F%E5%8D%81%E5%BC%BA/ar-AA1J1OoV": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://finance.sina.com.cn/roll/2024-11-07/doc-incvfyqu8945495.shtml": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://www.cnpp.cn/china/list_1783.html": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://www.jobui.com/rank/company/view/quanguo/duliyouxi/": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://game.qq.com/web202207/about.html": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://baike.baidu.com/item/%E4%B9%90%E6%B8%B8%E7%A7%91%E6%8A%80%E6%8E%A7%E8%82%A1%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/19826996": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://zhuanlan.zhihu.com/p/468371557": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://www.zlongame.com/html/aboutus.html": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://finance.sina.cn/2025-03-22/detail-ineqnpiv9019762.d.html": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://www.nowcoder.com/feed/main/detail/25c55f0fad3d4f7ba9271d6bc9c4b24c": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://www.163.com/dy/article/JBE4FM90051481OF.html": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://www.thepaper.cn/newsDetail_forward_25153381": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://www.163.com/dy/article/JA4M47E0051480KF.html": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://www.ecinnovations.com.cn/blog/the-beijing-game-companys-overseas-market-performance/": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://xueqiu.com/3406872873/303491589": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://cloud.tencent.com/developer/news/1308784": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://www.wanmei.com/": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://www.bilibili.com/opus/879010098451578886": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://news.qq.com/rain/a/20240307A0A99W00": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://www.woniu.com/": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://hr.game.163.com/index.html": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://finance.sina.cn/2025-10-29/detail-infvpqhp3462995.d.html": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://www.yiworld.com/index.html": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "http://www.yh.cn/": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://www.37wan.net/": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://maimai.cn/article/detail?fid=1778034608&efid=I_GKbTwl0vnci7sABIhXtA": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://zhuanlan.zhihu.com/p/392610223": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://www.pbids.com/aboutUs/pbidsNews/1861325965629689856": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://www.jobui.com/rank/company/view/shanghai/youxikaifa/": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://www.yicai.com/news/100718566.html": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://blog.csdn.net/lxdfigo/article/details/8393019": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://baike.baidu.com/item/%E8%8B%B1%E4%BD%A9%E6%95%B0%E7%A0%81/3259542": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://newgame.17173.com/": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://ol.ali213.net/": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://www.zzc9.com/remenwangyou/index.html": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://game.bilibili.com/platform/ranks/pc": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://zhuanlan.zhihu.com/p/1968804992698787233": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "http://www.yzz.cn/paihang/": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://top.17173.com/": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://www.zzyxsd.com/game/rmyx/": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "http://www.yzz.cn/": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://ol.ali213.net/?mobile": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://www.bilibili.com/opus/967383367011008531": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://www.pinyx.com/": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://www.zzc9.com/duanyoubang/": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://games.sina.com.cn/r/list/all/": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://www.ali213.net/news/html/2024-11/878705.html": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://www.maigoo.com/top/444567.html": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://www.4399.com/index.htm": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://games.sina.com.cn/": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://www.ali213.net/news/html/2025-2/905943.html": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://dl.3dmgame.com/all_58_1_time/": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://www.ali213.net/news/html/2024-11/878969.html": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://top.17173.com/list-2-0-0-0-0-0-0-0-0-0-1.html": {
+    "domain": "game",
+    "lang": "cn"
+  },
+  "https://www.zhihu.com/question/1938335037092270953": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://www.zhihu.com/question/1921807716407566463": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://zhidao.baidu.com/question/573123858/answer/3063657018.html": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://zhidao.baidu.com/question/253470212152203604.html": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://www.zhihu.com/question/28411415?sort=created": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://www.zhihu.com/question/345162236": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://bbs.3dmgame.com/forum.php?mobile=no": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://zhidao.baidu.com/question/469050891439827045.html": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://www.zhihu.com/question/656059049": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://zhidao.baidu.com/question/1123874870434744299.html": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://www.naughtydog.com/": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://www.pokemon.com/us/pokemon-tcg": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://goose.game/": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://www.nintendo.com/us/": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://osu.ppy.sh/": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://playvalorant.com/": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://humankind.game/": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://www.escapefromtarkov.com/": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://www.y8.com/": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://en.onepiece-cardgame.com/": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://www.yugioh-card.com/en/": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://www.nintendo.com/us/store/": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://gamejolt.com/": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://www.bleach-bravesouls.com/en/": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://www.rockstargames.com/gta-v": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://mario.nintendo.com/": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://www.footballmanager.com/": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://kahoot.it/": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "http://f13game.com/": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://www.activision.com/": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://store.epicgames.com/en-US/p/fortnite": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://www.ea.com/games/battlefield/battlefield-6": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://1v1.lol/": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://world.digimoncard.com/": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://www.terraria.org/": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://www.leagueoflegends.com/en-us/": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://scarletviolet.pokemon.com/en-us/": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://raidshadowlegends.com/": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://www.stardewvalley.net/": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://www.cyberpunk.net/": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://www.mobilelegends.com/": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://www.totalwar.com/": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://worldoftanks.com/": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://www.xbox.com/": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://www.rockstargames.com/games": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://pathofexile2.com/": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://www.portal-pokemon.com/": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://www.innersloth.com/games/among-us/": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://garticphone.com/": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://www.dota2.com/": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://www.ubisoft.com/en-gb": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://magic.wizards.com/en": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://2xko.riotgames.com/en-us/": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://www.ea.com/ea-app": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://www.minecraft.net/": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://game.capcom.com/residentevil/en/": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://shop.hasbro.com/en-us": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://en.digimoncard.com/": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://www.roblox.com/Login": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://www.eveonline.com/": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://www.2k.com/en-US/": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://bethesda.net/en/dashboard": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://store.epicgames.com/en-US/": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://www.mancity.com/": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://www.ea.com/games": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://www.mlb.com/dodgers": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://www.capcom.com/": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://www.pogo.com/": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://www.ea.com/games/ea-sports-fc": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://www.yugioh-card.com/": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://www.nintendo.com/us/store/games/": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://www.playstation.com/en-gb/": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://store.epicgames.com/en-US/browse/": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://borderlands.2k.com/": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://www.fiba.basketball/en/events/fiba-asiacup-2025": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://www.nba.com/games": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://gostanford.com/news/2025/11/10/big-game-kickoff-time-revealed": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://www.swtor.com/": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://www.arrowheadgamestudios.com/": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://www.wherewindsmeetgame.com/news/official/GlobalLaunch/CrossPlatform.html": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://www.counter-strike.net/": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://www.crossyroad.com/": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://www.ea.com/ea-studios/popcap": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://www.ea.com/games/library/pc-download": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://dyinglightgame.com/": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://www.arknights.global/": {
+    "domain": "game",
+    "lang": "en"
+  },
+  "https://sac.net.cn/": {
+    "domain": "organization",
+    "lang": "cn"
+  },
+  "https://sac.net.cn/xxgs/cyryxxgs/": {
+    "domain": "organization",
+    "lang": "cn"
+  },
+  "https://ks.sac.net.cn/sac/login/login_qt.htm": {
+    "domain": "organization",
+    "lang": "cn"
+  },
+  "http://person.sac.net.cn/": {
+    "domain": "organization",
+    "lang": "cn"
+  },
+  "https://ks.sac.net.cn/sac/login/login_lb.htm": {
+    "domain": "organization",
+    "lang": "cn"
+  },
+  "https://mh.sac.net.cn/": {
+    "domain": "organization",
+    "lang": "cn"
+  },
+  "https://examapi.sac.net.cn/pages/login/exam_query.html": {
+    "domain": "organization",
+    "lang": "cn"
+  },
+  "https://ks.sac.net.cn/sac/examMsg/showNotice.htm?id=157": {
+    "domain": "organization",
+    "lang": "cn"
+  },
+  "https://ks.sac.net.cn/sac/examMsg/showSomething.htm?xxlx=ksdg&kslb=1": {
+    "domain": "organization",
+    "lang": "cn"
+  },
+  "https://ks.sac.net.cn/sac/examMsg/showSomething.htm?xxlx=intro&kslb=1": {
+    "domain": "organization",
+    "lang": "cn"
+  },
+  "https://www.caq.org.cn/": {
+    "domain": "organization",
+    "lang": "cn"
+  },
+  "http://www.ciia.org.cn/": {
+    "domain": "organization",
+    "lang": "cn"
+  },
+  "https://www.thecfa.cn/": {
+    "domain": "organization",
+    "lang": "cn"
+  },
+  "http://www.chncia.org/": {
+    "domain": "organization",
+    "lang": "cn"
+  },
+  "https://www.china-cas.org/": {
+    "domain": "organization",
+    "lang": "cn"
+  },
+  "https://www.cacp.org.cn/": {
+    "domain": "organization",
+    "lang": "cn"
+  },
+  "https://www.cha-china.org/": {
+    "domain": "organization",
+    "lang": "cn"
+  },
+  "https://www.cas.org.cn/pub/cas/index.htm": {
+    "domain": "organization",
+    "lang": "cn"
+  },
+  "http://cicpa.org.cn/": {
+    "domain": "organization",
+    "lang": "cn"
+  },
+  "https://www.cpanet.org.cn/": {
+    "domain": "organization",
+    "lang": "cn"
+  },
+  "https://cpaffc.org.cn/": {
+    "domain": "organization",
+    "lang": "cn"
+  },
+  "http://www.caam.org.cn/": {
+    "domain": "organization",
+    "lang": "cn"
+  },
+  "https://www.zhongti.org.cn/": {
+    "domain": "organization",
+    "lang": "cn"
+  },
+  "https://www.amac.org.cn/hdjl/jjhywhjs/": {
+    "domain": "organization",
+    "lang": "cn"
+  },
+  "https://chinamuseum.org.cn/": {
+    "domain": "organization",
+    "lang": "cn"
+  },
+  "https://www.chemicalsafety.org.cn/": {
+    "domain": "organization",
+    "lang": "cn"
+  },
+  "http://www.rachina.org.cn/": {
+    "domain": "organization",
+    "lang": "cn"
+  },
+  "http://px.caa123.org.cn/": {
+    "domain": "organization",
+    "lang": "cn"
+  },
+  "https://www.cie.org.cn/": {
+    "domain": "organization",
+    "lang": "cn"
+  },
+  "https://www.cec1979.org.cn/": {
+    "domain": "organization",
+    "lang": "cn"
+  },
+  "https://www.caanet.org.cn/": {
+    "domain": "organization",
+    "lang": "cn"
+  },
+  "https://www.cha.org.cn/?siteid=10000&type=1": {
+    "domain": "organization",
+    "lang": "cn"
+  },
+  "https://www.china-nea.cn/": {
+    "domain": "organization",
+    "lang": "cn"
+  },
+  "https://www.cada.cc/": {
+    "domain": "organization",
+    "lang": "cn"
+  },
+  "https://www.amac.org.cn/index/": {
+    "domain": "organization",
+    "lang": "cn"
+  },
+  "https://www.ccsa.org.cn/": {
+    "domain": "organization",
+    "lang": "cn"
+  },
+  "http://www.ca-sme.org/": {
+    "domain": "organization",
+    "lang": "cn"
+  },
+  "https://www.ctta.cn/": {
+    "domain": "organization",
+    "lang": "cn"
+  },
+  "http://www.cfpa.cn/index.php/home": {
+    "domain": "organization",
+    "lang": "cn"
+  },
+  "https://bpma.org.cn/": {
+    "domain": "organization",
+    "lang": "cn"
+  },
+  "http://www.cgn.net.cn/": {
+    "domain": "organization",
+    "lang": "cn"
+  },
+  "https://www.china-cba.net/": {
+    "domain": "organization",
+    "lang": "cn"
+  },
+  "https://www.cpca.org.cn/": {
+    "domain": "organization",
+    "lang": "cn"
+  },
+  "https://www.ccas.com.cn/?siteid=1": {
+    "domain": "organization",
+    "lang": "cn"
+  },
+  "http://zhb.org.cn/": {
+    "domain": "organization",
+    "lang": "cn"
+  },
+  "https://www.cmasports.cn/": {
+    "domain": "organization",
+    "lang": "cn"
+  },
+  "https://www.cctaa.cn/": {
+    "domain": "organization",
+    "lang": "cn"
+  },
+  "https://www.zhihu.com/question/44730980": {
+    "domain": "organization",
+    "lang": "en"
+  },
+  "https://www.zhihu.com/signin": {
+    "domain": "organization",
+    "lang": "en"
+  },
+  "https://www.zhihu.com/question/276590531": {
+    "domain": "organization",
+    "lang": "en"
+  },
+  "https://www.zhihu.com/question/497551602": {
+    "domain": "organization",
+    "lang": "en"
+  },
+  "https://www.zhihu.com/question/461103769": {
+    "domain": "organization",
+    "lang": "en"
+  },
+  "https://www.zhihu.com/question/24837502": {
+    "domain": "organization",
+    "lang": "en"
+  },
+  "https://www.zhihu.com/question/21329729": {
+    "domain": "organization",
+    "lang": "en"
+  },
+  "https://www.zhihu.com/question/296289547": {
+    "domain": "organization",
+    "lang": "en"
+  },
+  "https://forum.wordreference.com/threads/the-o-k-caf%C3%A9-a-dim-organization.3507931/": {
+    "domain": "organization",
+    "lang": "en"
+  },
+  "https://forum.wordreference.com/threads/experience-in-at-an-organization.2806254/": {
+    "domain": "organization",
+    "lang": "en"
+  },
+  "https://www.un.org/": {
+    "domain": "organization",
+    "lang": "en"
+  },
+  "https://www.japan.go.jp/japan/visit/": {
+    "domain": "organization",
+    "lang": "en"
+  },
+  "https://www.japan.travel/en/": {
+    "domain": "organization",
+    "lang": "en"
+  },
+  "https://www.jasso.go.jp/en/": {
+    "domain": "organization",
+    "lang": "en"
+  },
+  "https://www.who.int/about/who-we-are/": {
+    "domain": "organization",
+    "lang": "en"
+  },
+  "https://english.visitkorea.or.kr/": {
+    "domain": "organization",
+    "lang": "en"
+  },
+  "https://www.ilo.org/": {
+    "domain": "organization",
+    "lang": "en"
+  },
+  "https://www.imo.org/en/": {
+    "domain": "organization",
+    "lang": "en"
+  },
+  "https://ilga.org/": {
+    "domain": "organization",
+    "lang": "en"
+  },
+  "https://www.wko.or.jp/soshiki/": {
+    "domain": "organization",
+    "lang": "en"
+  },
+  "https://www.japan.travel/": {
+    "domain": "organization",
+    "lang": "en"
+  },
+  "https://www.nato.int/": {
+    "domain": "organization",
+    "lang": "en"
+  },
+  "https://www.who.int/data": {
+    "domain": "organization",
+    "lang": "en"
+  },
+  "https://www.who.int/careers/apply-for-a-position": {
+    "domain": "organization",
+    "lang": "en"
+  },
+  "http://wcoomd.org/en/": {
+    "domain": "organization",
+    "lang": "en"
+  },
+  "https://www.iso.org/": {
+    "domain": "organization",
+    "lang": "en"
+  },
+  "https://www.who.int/emergencies/diseases/novel-coronavirus-2019": {
+    "domain": "organization",
+    "lang": "en"
+  },
+  "https://www.un.org/en/about-us": {
+    "domain": "organization",
+    "lang": "en"
+  },
+  "https://www.who.int/health-topics/": {
+    "domain": "organization",
+    "lang": "en"
+  },
+  "https://english.visitkorea.or.kr/svc/main/index.do": {
+    "domain": "organization",
+    "lang": "en"
+  },
+  "https://www.japan.travel/en/in/": {
+    "domain": "organization",
+    "lang": "en"
+  }
+}

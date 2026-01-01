@@ -1,0 +1,27 @@
+{
+    "Correct": {
+        "count": 405,
+        "percentage": 59.56
+    },
+    "Refusal": {
+        "count": 41,
+        "percentage": 6.03
+    },
+    "Hallucination": {
+        "count": 125,
+        "percentage": 18.38
+    },
+    "Totally Incorrect": {
+        "count": 87,
+        "percentage": 12.79
+    },
+    "Missing": {
+        "count": 17,
+        "percentage": 2.5
+    },
+    "Imprecise": {
+        "count": 5,
+        "percentage": 0.74
+    },
+    "total": 680
+}

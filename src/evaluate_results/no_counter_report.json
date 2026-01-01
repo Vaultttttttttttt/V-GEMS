@@ -1,0 +1,9 @@
+{
+    "single_source_easy": 0.6956521739130435,
+    "single_source_medium": 0.6885245901639344,
+    "single_source_hard": 0.618421052631579,
+    "multi_source_easy": 0.6375,
+    "multi_source_medium": 0.60431654676259,
+    "multi_source_hard": 0.568,
+    "overall": 0.6367647058823529
+}

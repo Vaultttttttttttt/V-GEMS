@@ -1,0 +1,74 @@
+{
+    "single_source_easy": {
+        "counter": 0.017262,
+        "url_stack": 0.015476,
+        "vlm": 0.060119,
+        "total": 0.092857
+    },
+    "single_source_medium": {
+        "counter": 0.01369,
+        "url_stack": 0.061012,
+        "vlm": 0.100298,
+        "total": 0.175
+    },
+    "single_source_hard": {
+        "counter": 0.005556,
+        "url_stack": 0.071528,
+        "vlm": 0.084028,
+        "total": 0.15
+    },
+    "multi_source_easy": {
+        "counter": 0.008333,
+        "url_stack": 0.089583,
+        "vlm": 0.064583,
+        "total": 0.162499
+    },
+    "multi_source_medium": {
+        "counter": 0.002381,
+        "url_stack": 0.069048,
+        "vlm": 0.07619,
+        "total": 0.142857
+    },
+    "multi_source_hard": {
+        "counter": 0.011111,
+        "url_stack": 0.040278,
+        "vlm": 0.081944,
+        "total": 0.133333
+    },
+    "cn": {
+        "counter": 0.005072,
+        "url_stack": 0.075725,
+        "vlm": 0.053986,
+        "total": 0.134783
+    },
+    "en": {
+        "counter": 0.008333,
+        "url_stack": 0.010606,
+        "vlm": 0.131061,
+        "total": 0.15
+    },
+    "game": {
+        "counter": 0.004796,
+        "url_stack": 0.109113,
+        "vlm": 0.058753,
+        "total": 0.172662
+    },
+    "conference": {
+        "counter": 0.002506,
+        "url_stack": 0.042607,
+        "vlm": 0.117794,
+        "total": 0.157895
+    },
+    "organization": {
+        "counter": 0.00641,
+        "url_stack": 0.044872,
+        "vlm": 0.102564,
+        "total": 0.153846
+    },
+    "education": {
+        "counter": 0.009831,
+        "url_stack": 0.039326,
+        "vlm": 0.06882,
+        "total": 0.117977
+    }
+}

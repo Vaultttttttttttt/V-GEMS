@@ -1,0 +1,14 @@
+{
+    "single_source_easy": 0.015476,
+    "single_source_medium": 0.061012,
+    "single_source_hard": 0.071528,
+    "multi_source_easy": 0.089583,
+    "multi_source_medium": 0.069048,
+    "multi_source_hard": 0.040278,
+    "cn": 0.075725,
+    "en": 0.010606,
+    "game": 0.109113,
+    "conference": 0.042607,
+    "organization": 0.044872,
+    "education": 0.039326
+}

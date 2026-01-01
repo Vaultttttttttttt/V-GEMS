@@ -1,0 +1,23 @@
+# Large image files - screenshots from evaluation
+src/images/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.log
+
+# Checkpoint files (can be regenerated)
+src/generated_dataset/checkpoint.json
+src/evaluation_results/eval_checkpoint.json

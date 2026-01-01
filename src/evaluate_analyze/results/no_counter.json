@@ -1,0 +1,17 @@
+{
+    "single_source_easy": 0.6928571428571428,
+    "single_source_medium": 0.675,
+    "single_source_hard": 0.6375,
+    "multi_source_easy": 0.6375,
+    "multi_source_medium": 0.6,
+    "multi_source_hard": 0.575,
+    "avg_type": 0.6363095238095239,
+    "cn": 0.6347826086956522,
+    "en": 0.6409090909090909,
+    "game": 0.5035971223021583,
+    "conference": 0.6842105263157895,
+    "organization": 0.7884615384615384,
+    "education": 0.648876404494382,
+    "avg_domain": 0.656286397893467,
+    "avg_all": 0.6432245361696461
+}
