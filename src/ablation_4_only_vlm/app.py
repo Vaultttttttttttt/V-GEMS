@@ -238,8 +238,8 @@ if __name__ == "__main__":
     st.markdown("### 📚Introduction")
     st.markdown("👋Welcome to VGems! VGems is a web-based conversational agent that can help you navigate websites and find information.")
     st.markdown("📑The paper of VGems is available at [arXiv]().")
-    st.markdown("✨You can bulid your own VGems by following the [instruction](https://github.com/Alibaba-NLP/VGems).")
-    st.markdown("🙋If you have any questions, please feel free to contact us via the [Github issue](https://github.com/Alibaba-NLP/VGems/issue).")
+    st.markdown("✨You can bulid your own VGems by following the [instruction].")
+    st.markdown("🙋If you have any questions, please feel free to contact us via the [Github issue].")
     st.markdown("### 🚀Let's start exploring the website!")
     if 'form_1_text' not in st.session_state:
         st.session_state.form_1_text = ""
