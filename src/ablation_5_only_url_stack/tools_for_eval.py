@@ -20,7 +20,7 @@ from openai import OpenAI
 # LLM configuration
 llm_cfg = {
     'model': 'qwen3-coder-plus',
-    'api_key': 'sk-e543e83d6c394411b3343369aa9027a2',
+    'api_key': '',
     'model_server': 'https://dashscope.aliyuncs.com/compatible-mode/v1',
     'generate_cfg': {
         'top_p': 0.8,
