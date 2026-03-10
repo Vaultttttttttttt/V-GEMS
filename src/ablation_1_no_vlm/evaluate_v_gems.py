@@ -37,8 +37,8 @@ CHECKPOINT_FILE = RESULTS_DIR / "eval_checkpoint.json"
 # VGems configuration
 LLM_CONFIG = {
     'model': 'Qwen3-235B-A22B-Instruct-2507',
-    'api_key': 'xwmyrxGRGl9xu6DgyPBEcvTvwGkuEQAopB/ARfWbi8I=',
-    'model_server': 'https://qwen235b.openapi-qb.sii.edu.cn/v1',
+    'api_key': '',
+    'model_server': '',
     'generate_cfg': {
         'top_p': 0.8,
         'max_input_tokens': 120000,
